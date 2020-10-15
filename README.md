@@ -8,5 +8,5 @@ This project uses a tree algorithm with the implementation of the minimax algori
 also fulfills the game theory topic as it is fundamentally a game theory algorithm that relies on the evaluation function implemented in GameState.
 
 ## Usage
-I have two concrete examples of using this turn solver in the other two packages. The games are Connect Four and tic-tac-toe. Consult the [manual](User\ Manual.pdf) for how
+I have two concrete examples of using this turn solver in the other two packages. The games are Connect Four and tic-tac-toe. Consult the [manual](user_manual.pdf) for how
 to run them.
